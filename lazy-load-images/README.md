@@ -20,5 +20,6 @@ new LazyLoadImages(document.querySelectorAll('[data-load-img]'), {
 });
 ```
 
+**Requirements:**
 - intersection-observer
 - gsap ^2.1.3
